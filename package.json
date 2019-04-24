@@ -1,0 +1,24 @@
+{
+  "name": "web-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natelee-clicktripz/web-scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natelee-clicktripz/web-scrape/issues"
+  },
+  "homepage": "https://github.com/natelee-clicktripz/web-scrape#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.11"
+  }
+}
